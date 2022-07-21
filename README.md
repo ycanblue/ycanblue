@@ -1,4 +1,4 @@
-<div align=center><h1>📚 TECH STACKS 📚</h1></div>
+<div align=center><h2>📚 TecH Stacks 📚</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -7,10 +7,9 @@
 </div>
 
 </br>
-</br>
-</br>
 
-<div align=center><h1>Tools</h1></div>
+
+<div align=center><h2>Tools</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
