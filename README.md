@@ -1,4 +1,4 @@
-<div align=center><h2>📚 TecH Stacks 📚</h2></div>
+<div align=center><h2>📚 Tech Stacks 📚</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
